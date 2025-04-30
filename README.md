@@ -14,7 +14,7 @@ To install the core of the game and the unit tests:
 ```
 Metacello new
     baseline:'Takuzu';
-    repository: 'github://tesonep/Takuzu:main/src';
+    repository: 'github://Gwen0317/Takuzu:main/src';
     onUpgradeUseLoaded;
     onConflictUseLoaded;
     load: 'core'
